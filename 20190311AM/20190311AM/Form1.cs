@@ -21,5 +21,10 @@ namespace _20190311AM
         {
             //999
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //0000
+        }
     }
 }
